@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1 id="project-dnn-speech-recognizer">Project: DNN Speech Recognizer</h1>
 <p>In this notebook, you will build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline!</p>
